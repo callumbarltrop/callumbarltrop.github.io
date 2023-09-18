@@ -1,0 +1,12 @@
+---
+title: "Under Review: Modelling non-stationarity in asymptotically independent extremes (joint with J. L. Wadsworth)"
+collection: publications
+permalink: /publication/ns_adf_paper.md
+excerpt: 'In many practical applications, evaluating the joint impact of combinations of environmental variables is important for risk management and structural design analysis. When such variables are considered simultaneously, non-stationarity can exist within both the marginal distributions and dependence structure, resulting in complex data structures. In the context of extremes, few methods have been proposed for modelling trends in extremal dependence, even though capturing this feature is important for quantifying joint impact. Motivated by the increasing dependence of data from the UK Climate Projections, we propose a novel semi-parametric modelling framework for bivariate extremal dependence structures. This framework allows us to capture a wide variety of dependence trends for data exhibiting asymptotic independence. When applied to the climate projection dataset, our model is able to capture observed dependence trends and, in combination with models for marginal non-stationarity, can be used to produce estimates of bivariate risk measures at future time points.'
+date: 11/07/2022
+venue: 'arXiv'
+paperurl: 'https://arxiv.org/abs/2203.05860'
+---
+In many practical applications, evaluating the joint impact of combinations of environmental variables is important for risk management and structural design analysis. When such variables are considered simultaneously, non-stationarity can exist within both the marginal distributions and dependence structure, resulting in complex data structures. In the context of extremes, few methods have been proposed for modelling trends in extremal dependence, even though capturing this feature is important for quantifying joint impact. Motivated by the increasing dependence of data from the UK Climate Projections, we propose a novel semi-parametric modelling framework for bivariate extremal dependence structures. This framework allows us to capture a wide variety of dependence trends for data exhibiting asymptotic independence. When applied to the climate projection dataset, our model is able to capture observed dependence trends and, in combination with models for marginal non-stationarity, can be used to produce estimates of bivariate risk measures at future time points.
+
+[Download paper here](https://arxiv.org/abs/2203.05860)
