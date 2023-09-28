@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc Hons in Mathematics, Lancaster University, 2018
+* MRes in Statistics and Operational Research, Lancaster University , 2019
+* PhD in Statistics, Lancaster University, 2023 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*2019: Graduate Teaching Assistant
+  *Lancaster University 
+  *I have been a graduate teaching assistant for a range of undergraduate and postgraduate modules. This role involved running seminars, marking assessed coursework and providing detailed feedback.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021: Research Intern
+  * Morecambe Bay Foodbank
+  * I undertook a 2-week volunteer placement as a research intern, working with other volunteers to produce a novel technique for estimating the number of unique clients from an incomplete dataset.
+
+* 2022: Environmental Statistician
+  * Fathom, Bristol
+  * During my PhD, I undertook an industrial placement at Fathom, a flood risk intelligence company based in Bristol, UK. My work involved developing and implementing a complex statistical framework for modelling and simulating flood events over large spatial regions.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Experience in a wide range of statistical fields, such as regression, multivariate modelling, statistical computing and extreme value theory.
+* Proficient in many mathematical modelling techniques, including likelihood and Bayesian inference, nonparametric statistics and asymptotic theory.
+* Experienced programmer, with knowledge in R, Python, Matlab and C++.
+* Adept in a range of operating systems and softwares, including Windows, Linux, Microsoft Office, LaTeX, GitHub and Mendeley.
 
 Publications
 ======
