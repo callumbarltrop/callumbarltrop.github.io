@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Work in progress - not currently functioning" #Callum Murphy-Barltrop Personal Website
+title                    : "Callum Murphy-Barltrop - Personal Website"
 title_separator          : "-"
 name                     : &name "Callum Murphy-Barltrop"
-description              : &description "Hi, and welcome to my personal website! I'll update this site occasionally with research updates. Use the details below to get in touch if you have any questions."
-url                      : https://callum_murphybarltrop.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Research Associate at TU Dresden" &Hi, and welcome to my personal website. I'll update this site occasionally with research updates. Use the details below to get in touch if you have any questions.
+url                      : https://callumbarltrop.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "callumbarltrop/github.com"
+repository               : "callumbarltrop.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Work in progress - not currently functioning website. Callum Murphy-Barltrop"
+  name             : "Dr Callum Murphy-Barltrop"
   avatar           : "DSC00535.jpg"
   bio              : "Research associate at TU Dresden, working in extreme value theory"
   location         : "Dresden, DE"
@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=9tHo2XcAAAAJ&hl=en&oi=ao"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Callum-Murphy-Barltrop"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-3479-2902"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
