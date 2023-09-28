@@ -17,9 +17,9 @@ Education
 
 Work experience
 ======
-*2019: Graduate Teaching Assistant
-  *Lancaster University 
-  *I have been a graduate teaching assistant for a range of undergraduate and postgraduate modules. This role involved running seminars, marking assessed coursework and providing detailed feedback.
+* 2019: Graduate Teaching Assistant
+  * Lancaster University 
+  * I have been a graduate teaching assistant for a range of undergraduate and postgraduate modules. This role involved running seminars, marking assessed coursework and providing detailed feedback.
 
 * 2021: Research Intern
   * Morecambe Bay Foodbank
