@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Callum Murphy-Barltrop - Personal Website"
+title                    : "Personal Website"
 title_separator          : "-"
 name                     : &name "Callum Murphy-Barltrop"
-description              : &description "Research Associate at TU Dresden" &Hi, and welcome to my personal website. I'll update this site occasionally with research updates. Use the details below to get in touch if you have any questions.
-url                      : https://callumbarltrop.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Research Associate at TU Dresden" 
+url                      : "https://callumbarltrop.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "callumbarltrop.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
