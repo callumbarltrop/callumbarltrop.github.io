@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Website"
+title                    : "Callum Murphy-Barltrop"
 title_separator          : "-"
 name                     : &name "Callum Murphy-Barltrop"
 description              : &description "Research Associate at TU Dresden" 
