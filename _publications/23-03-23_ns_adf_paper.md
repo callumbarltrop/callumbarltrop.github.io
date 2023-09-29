@@ -3,7 +3,7 @@ title: "Under Review: Modelling non-stationarity in asymptotically independent e
 collection: publications
 permalink: /publication/23-03-23_ns_adf_paper.md
 excerpt: ''
-date: 23/03/2023
+date: 23.03.2023
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2203.05860'
 ---
