@@ -1,7 +1,7 @@
 ---
 title: "A marginal modelling approach for predicting wildfire extremes across the contiguous United States (joint with E. D'Arcy, R. Shooter and E. S. Simpson)"
 collection: publications
-permalink: /publication/eva_challenge_2021
+permalink: /publication/20-03-23_eva_challenge_21.md
 excerpt: ''
 date: 20.03.2023
 venue: 'Extremes'
