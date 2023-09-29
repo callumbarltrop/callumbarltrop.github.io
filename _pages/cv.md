@@ -11,10 +11,17 @@ redirect_from:
 
 Education
 ======
-* BSc Hons in Mathematics, Lancaster University, 2018
+* BSc (Hons) in Mathematics, Lancaster University, 2018
 * MRes in Statistics and Operational Research, Lancaster University , 2019
 * PhD in Statistics, Lancaster University, 2023 
 
+Awards
+======
+* 2022: selected as one of the mathematical sciences finalists in the STEM for Britain competition.
+* 2022: placed 3rd in the Smith Institute’s TakeAIM competition.
+* 2018: David Astley Memorial Prize for best performance by a final year maths undergraduate at
+Lancaster University.
+   
 Work experience
 ======
 * 2019: Graduate Teaching Assistant
@@ -35,25 +42,3 @@ Skills
 * Proficient in many mathematical modelling techniques, including likelihood and Bayesian inference, nonparametric statistics and asymptotic theory.
 * Experienced programmer, with knowledge in R, Python, Matlab and C++.
 * Adept in a range of operating systems and softwares, including Windows, Linux, Microsoft Office, LaTeX, GitHub and Mendeley.
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
