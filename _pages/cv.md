@@ -21,6 +21,10 @@ Awards
 * 2022: placed 3rd in the Smith Institute’s TakeAIM competition.
 * 2018: David Astley Memorial Prize for best performance by a final year maths undergraduate at
 Lancaster University.
+
+Events
+======
+* 2023: Was one of the organising committee for the STOR-i extremes workshop hosted at Lancaster University. 
    
 Work experience
 ======
