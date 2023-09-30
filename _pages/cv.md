@@ -46,3 +46,15 @@ Skills
 * Proficient in many mathematical modelling techniques, including likelihood and Bayesian inference, nonparametric statistics and asymptotic theory.
 * Experienced programmer, with knowledge in R, Python, Matlab and C++.
 * Adept in a range of operating systems and softwares, including Windows, Linux, Microsoft Office, LaTeX, GitHub and Mendeley.
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
