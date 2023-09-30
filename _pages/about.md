@@ -8,6 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi, and welcome to my personal website. I'll update this site occasionally with new research projects. Use the details below to get in touch if you have any questions or would like to collaborate on a project.
+Hi, and welcome to my personal website. I'll update this site occasionally with information about ongoing research projects. Use my contact details to get in touch if you have any questions or would like to collaborate on a project.
+
+Research interests: 
+* Univariate Extremes
+* Mulivariate Extremes
+* Non-stationary Processes
+* Non/semi-parametric Inference
 
 Email: callum.murphy-barltrop[at]tu-dresden.de
