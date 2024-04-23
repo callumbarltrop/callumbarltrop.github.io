@@ -16,4 +16,4 @@ Research interests:
 * Non-stationary Processes
 * Non/semi-parametric Inference
 
-Email: callum.murphy-barltrop[at]tu-dresden.de
+Email: [first name].[family name][at]tu-dresden.de
