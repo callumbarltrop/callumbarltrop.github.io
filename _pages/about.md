@@ -17,3 +17,15 @@ Research interests:
 * Non/semi-parametric Inference
 
 Email: [first name].[family name][at]tu-dresden.de
+
+** Peer review **
+
+I have reviewed papers for the following journals:
+* Extremes
+* Communications in Statistics 
+* Journal of Multivariate Analysis
+* Ocean Engineering
+* Journal of Hydrology 
+* Water Resources Research 
+
+Please contact me via email for review requests. 
