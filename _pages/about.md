@@ -18,8 +18,6 @@ Research interests:
 
 Email: [first name].[family name][at]tu-dresden.de
 
-** Peer review **
-
 I have reviewed papers for the following journals:
 * Extremes
 * Communications in Statistics 
